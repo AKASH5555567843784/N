@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ninety Five",
+  "description": "A sophisticated, Jarvis-inspired personal AI assistant providing intelligent, voice-enabled automation, local and cloud-based reasoning, and seamless cross-platform control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
